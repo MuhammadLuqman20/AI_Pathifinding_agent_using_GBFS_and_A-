@@ -72,7 +72,9 @@ python pathfinding_agent.py
 
 ## License
 MIT License
+
 ---
 
 ## Author
+
 [Muhammad Luqman](https://github.com/MuhammadLuqman20)
