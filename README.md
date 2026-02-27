@@ -34,11 +34,12 @@ cd AI_Pathfinding_Agent
 
 2. Create a Virtual Environment(Optional but Recommended)
 
-  ```bash
+```bash
    python3 -m venv venv
    source venv/bin/activate   # Linux / macOS
    venv\Scripts\activate      # Windows
-   ```
+ ```
+
 3. Install Dependencies
    
    ```bash
