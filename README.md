@@ -30,13 +30,18 @@ Supports dynamic obstacles, real-time re-planning, and an interactive **Pygame G
 ```bash
 git clone https://github.com/MuhammadLuqman20/AI_Pathfinding_Agent.git
 cd AI_Pathfinding_Agent
-
 ```
+
 2. Create a Virtual Environment(Optional but Recommended)
-   ```bash
+
+  ```bash
    python3 -m venv venv
    source venv/bin/activate   # Linux / macOS
    venv\Scripts\activate      # Windows
-3. Install Dependencies
+   ```
+   
+4. Install Dependencies
+   
    ```bash
    pip install -r requirements.txt
+   ```
