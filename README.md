@@ -42,6 +42,6 @@ cd AI_Pathfinding_Agent
 
 3. Install Dependencies
    
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+ ```
