@@ -67,3 +67,12 @@ python pathfinding_agent.py
 - Select edit mode: Place wall, move start, move goal
 - Enable dynamic mode
 - Set grid size & obstacle density
+
+---
+
+## License
+MIT License
+---
+
+## Author
+[Muhammad Luqman](https://github.com/MuhammadLuqman20)
