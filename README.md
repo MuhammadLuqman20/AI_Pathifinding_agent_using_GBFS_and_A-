@@ -45,3 +45,24 @@ cd AI_Pathfinding_Agent
 ```bash
    pip install -r requirements.txt
  ```
+---
+
+Running the Code
+```bash
+python pathfinding_agent.py
+```
+
+Controls & Interactions:
+Mouse Left Click: Place walls (in edit mode) or move start/goal
+Mouse Right Click: Remove walls
+Spacebar: Run full search
+R key: Reset visualization
+G key: Generate random obstacles
+
+Panel options:
+Generate/clear map
+Choose algorithm: A* or GBFS
+Choose heuristic: Manhattan or Euclidean
+Select edit mode: Place wall, move start, move goal
+Enable dynamic mode
+Set grid size & obstacle density
