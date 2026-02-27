@@ -39,8 +39,7 @@ cd AI_Pathfinding_Agent
    source venv/bin/activate   # Linux / macOS
    venv\Scripts\activate      # Windows
    ```
-   
-4. Install Dependencies
+3. Install Dependencies
    
    ```bash
    pip install -r requirements.txt
