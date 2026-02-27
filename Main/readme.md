@@ -27,7 +27,14 @@ Supports dynamic obstacles, real-time re-planning, and an interactive **Pygame G
 ## Installation
 
 1. Clone the repository:
-
 ```bash
 git clone https://github.com/MuhammadLuqman20/AI_Pathfinding_Agent.git
 cd AI_Pathfinding_Agent
+
+2. Create a virtual environment (optional but recommended):
+python3 -m venv venv
+source venv/bin/activate   # Linux / macOS
+venv\Scripts\activate      # Windows
+
+3. Install depencies:
+
